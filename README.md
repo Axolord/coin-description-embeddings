@@ -1,6 +1,6 @@
 # coin description embeddings
 
-A Jupyter notebook for calculating embeddings with different APIs, searching for terms and comparing APIs visually and data-driven. 
+A Jupyter notebook for calculating embeddings with different APIs, searching for terms and comparing models visually and data-driven. 
 
 ## Calculating Embeddings 
 The inputs are simple coin descriptions. We pre-processed the data to get less noisy results. So we mapped verbs according to ###add_link### and replaced synonyms like Caesar -> Gaius Julius Caesar IV, Divus Julius. The embeddings are saved in dataframe / in a .feather file for further usage.
