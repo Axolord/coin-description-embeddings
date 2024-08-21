@@ -16,3 +16,5 @@ When analysing multiple search queries and their results, some effects occur. We
 ## Visual comparison
 The embedding space can be shown in a 2-dimensional space to get a better understanding of how it works. So we have reduced the dimension of the embeddings to 2. You can see that the models cluster descriptions around commonly used words like patera.
 ![](resources/visual.png)
+
+.
